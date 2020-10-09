@@ -6,8 +6,8 @@
 * asd
 * **asd**
 
-[ ] ASD
-[ ] 1. 123
-[X] asd
+[] ASD
+[] 1. 123
+[x] asd
 
 > ASD
